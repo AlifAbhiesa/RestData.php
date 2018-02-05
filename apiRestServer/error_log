@@ -1,0 +1,154 @@
+[19-Sep-2017 20:45:58 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/restartc/public_html/muadz/phpAPI/api.php on line 151
+[19-Sep-2017 20:45:58 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/restartc/public_html/muadz/phpAPI/api.php on line 151
+[19-Sep-2017 20:48:08 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/restartc/public_html/muadz/phpAPI/api.php on line 151
+[19-Sep-2017 20:48:08 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/restartc/public_html/muadz/phpAPI/api.php on line 151
+[19-Sep-2017 20:54:13 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/restartc/public_html/muadz/phpAPI/api.php on line 151
+[19-Sep-2017 20:54:13 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/restartc/public_html/muadz/phpAPI/api.php on line 151
+[19-Sep-2017 20:56:06 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/restartc/public_html/muadz/phpAPI/api.php on line 151
+[19-Sep-2017 20:56:06 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/restartc/public_html/muadz/phpAPI/api.php on line 151
+[19-Sep-2017 20:56:53 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/restartc/public_html/muadz/phpAPI/api.php on line 152
+[19-Sep-2017 20:56:53 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/restartc/public_html/muadz/phpAPI/api.php on line 152
+[19-Sep-2017 21:44:51 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/restartc/public_html/muadz/phpAPI/api.php on line 96
+[19-Sep-2017 21:45:43 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/restartc/public_html/muadz/phpAPI/api.php on line 96
+[19-Sep-2017 21:46:48 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/restartc/public_html/muadz/phpAPI/api.php on line 96
+[19-Sep-2017 21:47:03 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/restartc/public_html/muadz/phpAPI/api.php on line 96
+[21-Sep-2017 21:53:39 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/restartc/public_html/muadz/phpAPI/api.php on line 174
+[21-Sep-2017 21:53:52 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/restartc/public_html/muadz/phpAPI/api.php on line 174
+[05-Oct-2017 21:12:16 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/restartc/public_html/muadz/phpAPI/api.php on line 83
+[05-Oct-2017 21:12:16 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/restartc/public_html/muadz/phpAPI/api.php on line 83
+[05-Oct-2017 21:12:16 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/restartc/public_html/muadz/phpAPI/api.php on line 84
+[05-Oct-2017 21:15:12 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/restartc/public_html/muadz/phpAPI/api.php on line 83
+[05-Oct-2017 21:15:12 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/restartc/public_html/muadz/phpAPI/api.php on line 83
+[05-Oct-2017 21:15:12 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/restartc/public_html/muadz/phpAPI/api.php on line 84
+[05-Oct-2017 21:16:48 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /home/restartc/public_html/muadz/phpAPI/api.php on line 84
+[05-Oct-2017 21:16:49 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /home/restartc/public_html/muadz/phpAPI/api.php on line 84
+[05-Oct-2017 21:16:58 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /home/restartc/public_html/muadz/phpAPI/api.php on line 84
+[05-Oct-2017 21:18:40 Asia/Jakarta] PHP Warning:  mysqli_result::fetch_array() expects parameter 1 to be long, object given in /home/restartc/public_html/muadz/phpAPI/api.php on line 84
+[05-Oct-2017 21:18:41 Asia/Jakarta] PHP Warning:  mysqli_result::fetch_array() expects parameter 1 to be long, object given in /home/restartc/public_html/muadz/phpAPI/api.php on line 84
+[05-Oct-2017 21:20:32 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/restartc/public_html/muadz/phpAPI/api.php on line 83
+[05-Oct-2017 21:20:32 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/restartc/public_html/muadz/phpAPI/api.php on line 83
+[05-Oct-2017 21:20:32 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/restartc/public_html/muadz/phpAPI/api.php on line 84
+[05-Oct-2017 21:20:48 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/restartc/public_html/muadz/phpAPI/api.php on line 83
+[05-Oct-2017 21:20:48 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/restartc/public_html/muadz/phpAPI/api.php on line 83
+[05-Oct-2017 21:20:48 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/restartc/public_html/muadz/phpAPI/api.php on line 84
+[05-Oct-2017 21:20:48 Asia/Jakarta] PHP Warning:  mysqli::query(): Empty query in /home/restartc/public_html/muadz/phpAPI/api.php on line 93
+[05-Oct-2017 21:20:48 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/restartc/public_html/muadz/phpAPI/api.php on line 94
+[05-Oct-2017 21:22:47 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/restartc/public_html/muadz/phpAPI/api.php on line 83
+[05-Oct-2017 21:22:47 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/restartc/public_html/muadz/phpAPI/api.php on line 83
+[05-Oct-2017 21:22:47 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/restartc/public_html/muadz/phpAPI/api.php on line 84
+[05-Oct-2017 21:22:47 Asia/Jakarta] PHP Warning:  mysqli_result::fetch_array(): The result type should be either MYSQLI_NUM, MYSQLI_ASSOC or MYSQLI_BOTH in /home/restartc/public_html/muadz/phpAPI/api.php on line 93
+[05-Oct-2017 21:22:48 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/restartc/public_html/muadz/phpAPI/api.php on line 83
+[05-Oct-2017 21:22:48 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/restartc/public_html/muadz/phpAPI/api.php on line 83
+[05-Oct-2017 21:22:48 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/restartc/public_html/muadz/phpAPI/api.php on line 84
+[05-Oct-2017 21:22:48 Asia/Jakarta] PHP Warning:  mysqli_result::fetch_array(): The result type should be either MYSQLI_NUM, MYSQLI_ASSOC or MYSQLI_BOTH in /home/restartc/public_html/muadz/phpAPI/api.php on line 93
+[05-Oct-2017 21:24:04 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/restartc/public_html/muadz/phpAPI/api.php on line 83
+[05-Oct-2017 21:24:04 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/restartc/public_html/muadz/phpAPI/api.php on line 83
+[05-Oct-2017 21:24:04 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/restartc/public_html/muadz/phpAPI/api.php on line 84
+[05-Oct-2017 21:24:05 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/restartc/public_html/muadz/phpAPI/api.php on line 83
+[05-Oct-2017 21:24:05 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/restartc/public_html/muadz/phpAPI/api.php on line 83
+[05-Oct-2017 21:24:05 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/restartc/public_html/muadz/phpAPI/api.php on line 84
+[05-Oct-2017 21:24:53 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/restartc/public_html/muadz/phpAPI/api.php on line 83
+[05-Oct-2017 21:24:53 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/restartc/public_html/muadz/phpAPI/api.php on line 83
+[05-Oct-2017 21:24:53 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/restartc/public_html/muadz/phpAPI/api.php on line 84
+[05-Oct-2017 21:24:55 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/restartc/public_html/muadz/phpAPI/api.php on line 83
+[05-Oct-2017 21:24:55 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/restartc/public_html/muadz/phpAPI/api.php on line 83
+[05-Oct-2017 21:24:55 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/restartc/public_html/muadz/phpAPI/api.php on line 84
+[05-Oct-2017 21:24:57 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/restartc/public_html/muadz/phpAPI/api.php on line 83
+[05-Oct-2017 21:24:57 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/restartc/public_html/muadz/phpAPI/api.php on line 83
+[05-Oct-2017 21:24:57 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/restartc/public_html/muadz/phpAPI/api.php on line 84
+[05-Oct-2017 21:24:58 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/restartc/public_html/muadz/phpAPI/api.php on line 83
+[05-Oct-2017 21:24:58 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/restartc/public_html/muadz/phpAPI/api.php on line 83
+[05-Oct-2017 21:24:58 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/restartc/public_html/muadz/phpAPI/api.php on line 84
+[05-Oct-2017 21:24:58 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/restartc/public_html/muadz/phpAPI/api.php on line 83
+[05-Oct-2017 21:24:58 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/restartc/public_html/muadz/phpAPI/api.php on line 83
+[05-Oct-2017 21:24:58 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/restartc/public_html/muadz/phpAPI/api.php on line 84
+[05-Oct-2017 21:25:30 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/restartc/public_html/muadz/phpAPI/api.php on line 83
+[05-Oct-2017 21:25:30 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/restartc/public_html/muadz/phpAPI/api.php on line 83
+[05-Oct-2017 21:25:30 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/restartc/public_html/muadz/phpAPI/api.php on line 84
+[05-Oct-2017 21:25:32 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/restartc/public_html/muadz/phpAPI/api.php on line 83
+[05-Oct-2017 21:25:32 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/restartc/public_html/muadz/phpAPI/api.php on line 83
+[05-Oct-2017 21:25:32 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/restartc/public_html/muadz/phpAPI/api.php on line 84
+[05-Oct-2017 21:27:12 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/restartc/public_html/muadz/phpAPI/api.php on line 83
+[05-Oct-2017 21:27:12 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/restartc/public_html/muadz/phpAPI/api.php on line 83
+[05-Oct-2017 21:27:12 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/restartc/public_html/muadz/phpAPI/api.php on line 84
+[05-Oct-2017 21:27:12 Asia/Jakarta] PHP Fatal error:  Call to a member function query() on null in /home/restartc/public_html/muadz/phpAPI/api.php on line 94
+[05-Oct-2017 21:27:14 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/restartc/public_html/muadz/phpAPI/api.php on line 83
+[05-Oct-2017 21:27:14 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/restartc/public_html/muadz/phpAPI/api.php on line 83
+[05-Oct-2017 21:27:14 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/restartc/public_html/muadz/phpAPI/api.php on line 84
+[05-Oct-2017 21:27:14 Asia/Jakarta] PHP Fatal error:  Call to a member function query() on null in /home/restartc/public_html/muadz/phpAPI/api.php on line 94
+[05-Oct-2017 21:27:28 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/restartc/public_html/muadz/phpAPI/api.php on line 83
+[05-Oct-2017 21:27:28 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/restartc/public_html/muadz/phpAPI/api.php on line 83
+[05-Oct-2017 21:27:28 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/restartc/public_html/muadz/phpAPI/api.php on line 84
+[05-Oct-2017 21:27:28 Asia/Jakarta] PHP Fatal error:  Call to a member function query() on null in /home/restartc/public_html/muadz/phpAPI/api.php on line 94
+[05-Oct-2017 21:27:29 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/restartc/public_html/muadz/phpAPI/api.php on line 83
+[05-Oct-2017 21:27:29 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/restartc/public_html/muadz/phpAPI/api.php on line 83
+[05-Oct-2017 21:27:29 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/restartc/public_html/muadz/phpAPI/api.php on line 84
+[05-Oct-2017 21:27:29 Asia/Jakarta] PHP Fatal error:  Call to a member function query() on null in /home/restartc/public_html/muadz/phpAPI/api.php on line 94
+[05-Oct-2017 21:27:56 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/restartc/public_html/muadz/phpAPI/api.php on line 83
+[05-Oct-2017 21:27:56 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/restartc/public_html/muadz/phpAPI/api.php on line 83
+[05-Oct-2017 21:27:56 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/restartc/public_html/muadz/phpAPI/api.php on line 84
+[05-Oct-2017 21:27:56 Asia/Jakarta] PHP Fatal error:  Call to a member function query() on null in /home/restartc/public_html/muadz/phpAPI/api.php on line 94
+[05-Oct-2017 21:27:58 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/restartc/public_html/muadz/phpAPI/api.php on line 83
+[05-Oct-2017 21:27:58 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/restartc/public_html/muadz/phpAPI/api.php on line 83
+[05-Oct-2017 21:27:58 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/restartc/public_html/muadz/phpAPI/api.php on line 84
+[05-Oct-2017 21:27:58 Asia/Jakarta] PHP Fatal error:  Call to a member function query() on null in /home/restartc/public_html/muadz/phpAPI/api.php on line 94
+[05-Oct-2017 21:28:16 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/restartc/public_html/muadz/phpAPI/api.php on line 83
+[05-Oct-2017 21:28:16 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/restartc/public_html/muadz/phpAPI/api.php on line 83
+[05-Oct-2017 21:28:16 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/restartc/public_html/muadz/phpAPI/api.php on line 84
+[05-Oct-2017 21:28:18 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/restartc/public_html/muadz/phpAPI/api.php on line 83
+[05-Oct-2017 21:28:18 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/restartc/public_html/muadz/phpAPI/api.php on line 83
+[05-Oct-2017 21:28:18 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/restartc/public_html/muadz/phpAPI/api.php on line 84
+[05-Oct-2017 21:32:28 Asia/Jakarta] PHP Fatal error:  Call to undefined method mysqli::fetch_array() in /home/restartc/public_html/muadz/phpAPI/api.php on line 87
+[05-Oct-2017 21:32:30 Asia/Jakarta] PHP Fatal error:  Call to undefined method mysqli::fetch_array() in /home/restartc/public_html/muadz/phpAPI/api.php on line 87
+[05-Oct-2017 21:32:47 Asia/Jakarta] PHP Warning:  mysqli_result::fetch_array() expects parameter 1 to be long, object given in /home/restartc/public_html/muadz/phpAPI/api.php on line 87
+[05-Oct-2017 21:32:48 Asia/Jakarta] PHP Warning:  mysqli_result::fetch_array() expects parameter 1 to be long, object given in /home/restartc/public_html/muadz/phpAPI/api.php on line 87
+[05-Oct-2017 21:33:05 Asia/Jakarta] PHP Fatal error:  Call to undefined method api::fetch_array() in /home/restartc/public_html/muadz/phpAPI/api.php on line 87
+[05-Oct-2017 21:33:06 Asia/Jakarta] PHP Fatal error:  Call to undefined method api::fetch_array() in /home/restartc/public_html/muadz/phpAPI/api.php on line 87
+[05-Oct-2017 21:33:40 Asia/Jakarta] PHP Warning:  mysqli_result::fetch_array() expects parameter 1 to be long, object given in /home/restartc/public_html/muadz/phpAPI/api.php on line 87
+[05-Oct-2017 21:53:53 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '"' in /home/restartc/public_html/muadz/phpAPI/api.php on line 104
+[05-Oct-2017 21:54:32 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '"' in /home/restartc/public_html/muadz/phpAPI/api.php on line 105
+[05-Oct-2017 21:58:01 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ';' in /home/restartc/public_html/muadz/phpAPI/api.php on line 90
+[05-Oct-2017 21:58:02 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ';' in /home/restartc/public_html/muadz/phpAPI/api.php on line 90
+[05-Oct-2017 22:07:51 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/restartc/public_html/muadz/phpAPI/api.php on line 94
+[05-Oct-2017 22:07:53 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/restartc/public_html/muadz/phpAPI/api.php on line 94
+[05-Oct-2017 22:11:01 Asia/Jakarta] PHP Fatal error:  Call to undefined method api::getTest() in /home/restartc/public_html/muadz/phpAPI/index.php on line 88
+[05-Oct-2017 22:12:45 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/restartc/public_html/muadz/phpAPI/api.php on line 94
+[05-Oct-2017 22:12:46 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/restartc/public_html/muadz/phpAPI/api.php on line 94
+[05-Oct-2017 22:14:11 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/restartc/public_html/muadz/phpAPI/api.php on line 94
+[05-Oct-2017 22:15:06 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ';' in /home/restartc/public_html/muadz/phpAPI/api.php on line 92
+[05-Oct-2017 22:15:07 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ';' in /home/restartc/public_html/muadz/phpAPI/api.php on line 92
+[05-Oct-2017 22:28:28 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/restartc/public_html/muadz/phpAPI/api.php on line 96
+[05-Oct-2017 22:33:43 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/restartc/public_html/muadz/phpAPI/api.php on line 98
+[05-Oct-2017 22:33:45 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/restartc/public_html/muadz/phpAPI/api.php on line 98
+[22-Oct-2017 11:07:33 Asia/Jakarta] PHP Fatal error:  Cannot redeclare updateINAP() (previously declared in /home/restartc/public_html/muadz/phpAPI/index.php:179) in /home/restartc/public_html/muadz/phpAPI/index.php on line 223
+[22-Oct-2017 11:07:33 Asia/Jakarta] PHP Fatal error:  Cannot redeclare updateINAP() (previously declared in /home/restartc/public_html/muadz/phpAPI/index.php:179) in /home/restartc/public_html/muadz/phpAPI/index.php on line 223
+[09-Nov-2017 10:13:53 Asia/Jakarta] PHP Notice:  Undefined index: keyowords in /home/restartc/public_html/muadz/phpAPI/api.php on line 79
+[09-Nov-2017 10:14:01 Asia/Jakarta] PHP Notice:  Undefined index: keyowords in /home/restartc/public_html/muadz/phpAPI/api.php on line 79
+[09-Nov-2017 10:14:07 Asia/Jakarta] PHP Notice:  Undefined index: keyowords in /home/restartc/public_html/muadz/phpAPI/api.php on line 79
+[09-Nov-2017 10:14:09 Asia/Jakarta] PHP Notice:  Undefined index: keyowords in /home/restartc/public_html/muadz/phpAPI/api.php on line 79
+[09-Nov-2017 10:14:20 Asia/Jakarta] PHP Notice:  Undefined index: keyowords in /home/restartc/public_html/muadz/phpAPI/api.php on line 79
+[09-Nov-2017 10:15:23 Asia/Jakarta] PHP Notice:  Undefined index: keyowords in /home/restartc/public_html/muadz/phpAPI/api.php on line 79
+[09-Nov-2017 10:15:23 Asia/Jakarta] PHP Notice:  Undefined index: keyowords in /home/restartc/public_html/muadz/phpAPI/api.php on line 79
+[09-Nov-2017 10:15:29 Asia/Jakarta] PHP Notice:  Undefined index: keyowords in /home/restartc/public_html/muadz/phpAPI/api.php on line 79
+[09-Nov-2017 10:15:37 Asia/Jakarta] PHP Notice:  Undefined index: keyowords in /home/restartc/public_html/muadz/phpAPI/api.php on line 79
+[09-Nov-2017 10:15:39 Asia/Jakarta] PHP Notice:  Undefined index: keyowords in /home/restartc/public_html/muadz/phpAPI/api.php on line 79
+[16-Nov-2017 17:08:23 Asia/Jakarta] PHP Notice:  Undefined index: pg in /home/restartc/public_html/muadz/phpAPI/index.php on line 114
+[16-Nov-2017 17:08:23 Asia/Jakarta] PHP Notice:  Undefined index: pg in /home/restartc/public_html/muadz/phpAPI/index.php on line 114
+[16-Nov-2017 17:08:23 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/restartc/public_html/muadz/phpAPI/api.php on line 116
+[16-Nov-2017 17:08:23 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/restartc/public_html/muadz/phpAPI/api.php on line 116
+[16-Nov-2017 17:09:16 Asia/Jakarta] PHP Notice:  Undefined index: pg in /home/restartc/public_html/muadz/phpAPI/index.php on line 114
+[16-Nov-2017 17:09:16 Asia/Jakarta] PHP Notice:  Undefined index: pg in /home/restartc/public_html/muadz/phpAPI/index.php on line 114
+[16-Nov-2017 17:09:16 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/restartc/public_html/muadz/phpAPI/api.php on line 116
+[16-Nov-2017 17:09:16 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/restartc/public_html/muadz/phpAPI/api.php on line 116
+[16-Nov-2017 17:15:01 Asia/Jakarta] PHP Notice:  Undefined index: pg in /home/restartc/public_html/muadz/phpAPI/index.php on line 114
+[16-Nov-2017 17:15:01 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/restartc/public_html/muadz/phpAPI/api.php on line 116
+[16-Nov-2017 17:15:01 Asia/Jakarta] PHP Notice:  Undefined index: pg in /home/restartc/public_html/muadz/phpAPI/index.php on line 114
+[16-Nov-2017 17:15:01 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/restartc/public_html/muadz/phpAPI/api.php on line 116
+[16-Nov-2017 17:35:15 Asia/Jakarta] PHP Notice:  Undefined index: pg in /home/restartc/public_html/muadz/phpAPI/index.php on line 114
+[16-Nov-2017 17:35:15 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/restartc/public_html/muadz/phpAPI/api.php on line 116
+[16-Nov-2017 17:35:15 Asia/Jakarta] PHP Notice:  Undefined index: pg in /home/restartc/public_html/muadz/phpAPI/index.php on line 114
+[16-Nov-2017 17:35:15 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/restartc/public_html/muadz/phpAPI/api.php on line 116
+[16-Nov-2017 20:33:32 Asia/Jakarta] PHP Notice:  Undefined index: pg in /home/restartc/public_html/muadz/phpAPI/index.php on line 114
+[16-Nov-2017 20:33:32 Asia/Jakarta] PHP Notice:  Undefined index: pg in /home/restartc/public_html/muadz/phpAPI/index.php on line 114
+[16-Nov-2017 20:33:32 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/restartc/public_html/muadz/phpAPI/api.php on line 116
+[16-Nov-2017 20:33:32 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/restartc/public_html/muadz/phpAPI/api.php on line 116
